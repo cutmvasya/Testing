@@ -1,4 +1,4 @@
-Waktu 120 menit
+Waktu 100 menit
 
 Penilaian:
 total test case ada 34
